@@ -1,0 +1,7 @@
+package courseplanner.catalogdata;
+
+message Course {
+	repeated string course_numbers = 1; // Repeated to handle cross-listed courses
+	
+
+}

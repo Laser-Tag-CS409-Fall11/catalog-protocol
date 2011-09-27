@@ -1,0 +1,6 @@
+package courseplanner.catalogdata;
+
+message PrereqTerminal {
+	
+
+}
